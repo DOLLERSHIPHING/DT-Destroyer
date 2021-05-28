@@ -1,0 +1,20 @@
+{
+	"token": "put your token here",
+	"permissions": ["put your user id or tag (normal text fonts only), can add multiple to whitelist bot usage"],
+	"bot_permission": "2146958847", 
+	"command_prefix": "dtf",
+	"bot_status": "do_not_disturb",
+	"verbose": 15,
+	"bomb_messages": {
+		"random": null,
+		"fixed": ["type multiple sentences here"]
+	},
+	"webhook_spam": {
+		"usernames": ["name"],
+		"pfp_urls": [null],
+		"contents": ["type multiple sentences here"]
+	},
+	"after": ["put commands here"],
+	"proxies": [],
+	"ban_whitelist": ["same as user whitelist, add thing to bypass the ban (it is recommended to add your own id here too)"]
+}
